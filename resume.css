@@ -1,0 +1,53 @@
+body {
+  width: 1000px;
+  font-family: "Helvetica"
+}
+
+#headingName {
+  text-align: center;
+}
+
+.contactInfo {
+  float: left;
+  padding-top: 10px;
+}
+
+.links {
+  padding-top: 10px;
+  padding-right: 5px;
+  float: right;
+}
+
+div.columns {
+  display: inline-block;
+  overflow: visible;
+  width: 48%;
+  height: 1100px;
+  vertical-align: top;
+}
+
+.resumeBody {
+  width: 100%;
+  height:100%;
+}
+
+.header {
+  height: 150px;
+  width: 100%;
+  border-bottom: 2px black solid;
+  margin-bottom: 10px;
+}
+
+#columnLeft {
+  border-right: 2px black solid;
+  height: 1100px;
+}
+
+#columnRight {
+  margin-left: 10px;
+  display: inline-block;
+}
+
+h2 {
+  text-decoration: underline;
+}
